@@ -96,12 +96,15 @@
 
 ---
 
-## 📊 ئاماری چالاکییەکانی سەکۆکە لە GitHub
+## 📊 ئامار و بینەرانی سەکۆی ئەندرۆیدی کوردی
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kurdishandroid01&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurdishandroid01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
+![Profile Views](https://komarev.com/ghpvc/?username=Kurdishandroid01&label=بینەرانی+پرۆفایل&color=00b383&style=for-the-badge)
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Kurdishandroid01&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" width="85%" />
 
 </div>
 
