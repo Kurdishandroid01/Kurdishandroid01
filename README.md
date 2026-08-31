@@ -58,7 +58,7 @@
       <p align="center"><a href="https://kuripakapp.blogspot.com"><b>🕌 سەردانکردن</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="https://i.ibb.co/YTqpvDTZ/dalle-3-MXVc6xk-Qq.png" width="60" height="60" style="border-radius: 14px;" /><br>
+      <p align="center"><img src="https://panagay-iman.pages.dev/logo.jpg" width="60" height="60" style="border-radius: 14px;" /><br>
       <b>پەناگەی ئیمان (Panagay Iman)</b></p>
       <p>ماڵپەڕ و خزمەتگوزاری پێشکەوتووی پەروەردەیی و ئیسلامی.</p>
       <p align="center"><a href="https://panagay-iman.pages.dev"><b>📖 بینینی ماڵپەڕ</b></a></p>
