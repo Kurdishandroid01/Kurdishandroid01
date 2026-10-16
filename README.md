@@ -44,10 +44,10 @@
       <p align="center"><a href="https://csharp-course-kurdish.vercel.app/"><b>🎓 بەشداریکردن لە کۆرس</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="https://i.ibb.co/ccn7ZP3t/1000315738.png" width="60" height="60" style="border-radius: 14px;" /><br>
-      <b>دابەزێنەری ڤیدیۆی یوتیوب (YK Downloader)</b></p>
+      <p align="center"><img src="https://i.ibb.co/xKYxRc0s/1000348800.jpg" width="60" height="60" style="border-radius: 14px;" /><br>
+      <b>دابەزێنەری ڤیدیۆی گشت پلاتفۆڕمەکان (Kurd Saver)</b></p>
       <p>ئامرازی خێرا بۆ داگرتنی ڤیدیۆ و دەنگ بە کوالێتی جیاواز.</p>
-      <p align="center"><a href="https://yk-downloader.blogspot.com/?m=0"><b>📥 بەکارهێنانی ئامراز</b></a></p>
+      <p align="center"><a href="https://apkpure.com/kurd-saver-video-downloader/com.zaidothman.kurdsaver"><b>📥 بەکارهێنانی ئامراز</b></a></p>
     </td>
   </tr>
   <tr>
